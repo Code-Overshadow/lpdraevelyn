@@ -445,6 +445,10 @@ video {
         margin-right: 10px;
     }
 
+    .div-externa-duvidas {
+        width: 100%;
+    }
+
     .consultorio p,
     .depoimentos p {
         margin-bottom: 30px;
