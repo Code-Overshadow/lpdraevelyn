@@ -445,10 +445,6 @@ video {
         margin-right: 10px;
     }
 
-    .div-externa-duvidas {
-        width: 100%;
-    }
-
     .consultorio p,
     .depoimentos p {
         margin-bottom: 30px;
@@ -518,7 +514,10 @@ video {
     .start-100 {
         left: 10% !important;
     }
-
+    
+    .div-externa-duvidas {
+        width: 100%;
+    }
     .card-texto {
         width: 58%;
     }
