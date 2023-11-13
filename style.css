@@ -182,7 +182,7 @@ a {
 
 .accordion-button,
 .accordion-body {
-    background-color: #e2d9d2!important;
+    background-color: rgba(167, 133, 122, 0.16)!important;
     color: #000!important;
 }
 
@@ -514,7 +514,7 @@ video {
     .start-100 {
         left: 10% !important;
     }
-    
+
     .div-externa-duvidas {
         width: 100%;
     }
