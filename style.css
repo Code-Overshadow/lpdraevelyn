@@ -76,7 +76,7 @@ a {
 }
 
 .card {
-    width: 17%;
+    width: 30%;
     background-color: #ffffff;
     border: 1px solid #e2d9d2;
     margin: 10px;
@@ -128,7 +128,7 @@ a {
 }
 
 .servicos .card {
-    width: 30%;
+    width: 20%;
     background-color: #ffffff;
     border: 1px solid #A7857A;
     margin: 10px;
@@ -164,7 +164,8 @@ a {
 
 .duvidas-title h1 {
     text-align: center;
-    margin: 40px;
+    margin: 20px;
+    margin-top: 0px;
     font-size: 35px;
     font-family: Poppins;
 }
@@ -412,6 +413,14 @@ video {
 @media (max-width: 1500px) and (min-width: 760px) {
     .container-fluid {
         width: 75%;
+    }
+    
+    .servicos .card {
+        width: 40%;
+    }
+
+    .card {
+        width: 30%;
     }
 
     .start-100 {
