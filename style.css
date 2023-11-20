@@ -156,7 +156,7 @@ a {
 
 .beneficios {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     flex-wrap: wrap;
 }
 
@@ -211,12 +211,13 @@ a {
     justify-content: center;
     padding: 50px 0px;
     flex-wrap: wrap;
-    width: 68%;
+    width: 80%;
     margin: auto;
     background-color: rgba(167, 133, 122, 0.16);
+    border-radius: 8px;
 }
 
-.sobre>div {
+.sobre > div {
     width: 35%;
     border-radius: 15px;
     border: 1px solid #A7857A;
@@ -392,6 +393,8 @@ video {
     width: 65%;
     border-radius: 10px;
     background: rgb(167, 133, 122, 0.4);
+    /* background-image: url(img-procedimentos-comp/crianca2.jpeg);
+    background-position: top center; */
 }
 
 .responsive-a-transp {
